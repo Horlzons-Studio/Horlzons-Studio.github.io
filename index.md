@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Horlzons Studio | 视界工作室
 
-You can use the [editor on GitHub](https://github.com/Horlzons-Studio/Horlzons-Studio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+> 一个空壳的、架空的、尚未正式启用的非正式测试工作室。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+此页面仅用以展示不发简单内容，因工作室未正式启用，此页面将不会有任何有价值的内容。您也可以访问我们的[博客](https://ravelloh.js.org)，~~尽管其中也没有太多东西~~
 
-### Markdown
+### 历史
+此工作室于2018年建立，专注于Minecraft领域，后在19年因人员流失而分解。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Horlzons-Studio/Horlzons-Studio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+于2020年重新建立，但起初的老成员都已忙于学业，故作为了一个非正式测试工作室。
