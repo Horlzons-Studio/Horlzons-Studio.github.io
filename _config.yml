@@ -1,1 +1,29 @@
 theme: jekyll-theme-cayman
+
+paginate: 2
+
+title: Xeocnet Studio
+
+url: https://xeocnet-studio.github.io/
+
+feed: https;//xeocnet-studio.githun.io
+
+author: XeocnetStudio
+
+aubout: 空壳的、架空的、尚未正式启用的非正式工作室。
+
+follow: https://github.com/xeocnet-studio
+
+indexContent: true
+
+imagelink: img/logo.jpg
+
+blogName: Xeocnet Studio
+
+blogDesc: 工作室介绍页面
+
+favicon: /favicon.ico
+
+desqus: XeocnetStudio
+
+copyright: Xeocnet Studio
